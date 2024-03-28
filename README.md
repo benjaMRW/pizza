@@ -1,3 +1,3 @@
 # pizza
-learning python and git
+learning python and git and html
 
